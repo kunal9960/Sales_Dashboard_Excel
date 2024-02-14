@@ -26,6 +26,11 @@ To get started with the sales dashboard:
 ### Dashboard
 ![Dashboard](https://github.com/kunal9960/Sales_Dashboard_Excel/blob/main/Dashboard.png)
 
+## Contributing
+
+Contributions to improve the analysis or add new insights are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
+
 ## Acknowledgments
-Feel free to contact me if you need any help with any of the projects :)
+
+Feel free to contact me if you need help with any of the projects :)
 - Data Source: [The excel file](https://github.com/kunal9960/Sales_Dashboard_Excel/blob/main/Sales%20Dashboard%20South%20America.xlsx)
