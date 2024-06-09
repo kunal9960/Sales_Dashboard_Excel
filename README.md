@@ -1,6 +1,6 @@
 # Sales Dashboard 🛒
 
-This repository contains Excel spreadsheet designed to analyze various aspects of sales performance including revenue, product trends, customer behavior, and profitability.
+This repository contains excel spreadsheet designed to analyze various aspects of sales performance including revenue, product trends, customer behavior, and profitability.
 
 
 ## Features
